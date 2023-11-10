@@ -1,0 +1,8 @@
+@import './import/header.css';
+@import './import/home.css';
+@import './import/product-details.css';
+@import './import/blog.css';
+@import './import/blog-details.css';
+@import './import/about.css';
+@import './import/cart.css';
+@import './import/footer.css';
